@@ -6,8 +6,11 @@ in the folder where the work happened (a worktree is fine when it is open in the
 one-concern PRs split before coding, green checks before staging, terse descriptions and
 comments, and a plan plus devlog per piece of work.
 
-Why it matters: these are candidates for global guidelines, so no repo has to repeat them. Each
-becomes a guideline only when the user states it.
+All six became guidelines on 2026-11-10: [stage and stop](../guidelines/stage-and-stop-before-commit.md),
+[one branch per piece of work](../guidelines/one-branch-per-piece-of-work.md),
+[small PRs](../guidelines/small-one-concern-prs.md), [green before staging](../guidelines/green-before-staging.md),
+[descriptions and comments](../guidelines/short-plain-descriptions-and-comments.md),
+[plan and devlog](../guidelines/plan-and-devlog-per-piece-of-work.md). The guidelines are the rule; this note is how they got here.
 
 The branch rule was changed by the user on 2026-11-10 (source: own). The original said "main tree,
 no worktree" because the editor only showed the main tree. That blocks running agents in parallel.
