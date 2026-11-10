@@ -17,4 +17,5 @@ Read this first. One line per file: what it is, so you know whether to open it.
 - [Example app](projects/example-app.md) — what it is, where it runs, its status.
 
 ## Notes
+- [AGENTS.md rules: every project vs one project](notes/agents-md-every-project-vs-project-only.md) — trip-planner's AGENTS.md sorted into global vs repo-only rules; candidates for guidelines.
 - [Why mocks hide database bugs](notes/why-mocks-hide-database-bugs.md) — the failure modes a mocked database misses, with the source.
