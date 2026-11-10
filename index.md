@@ -13,7 +13,7 @@ Read this first. One line per file: what it is, so you know whether to open it.
 - [Small PRs, one concern each](guidelines/small-one-concern-prs.md) — one concern per branch; split into 1a, 1b… before coding.
 - [Green before staging](guidelines/green-before-staging.md) — typecheck, tests, build (and e2e when covered) pass first; a bug fix starts with a failing test.
 - [Short, plain descriptions and comments](guidelines/short-plain-descriptions-and-comments.md) — what it does and guarantees; comments only on lines a reader would misread; at most three lines.
-- [A plan and a devlog for each piece of work](guidelines/plan-and-devlog-per-piece-of-work.md) — a tracked docs/<topic>/PLAN.md plus a devlog; status lives only there.
+- [A plan for each piece of work, with a devlog beside it](guidelines/plan-and-devlog-per-piece-of-work.md) — each piece of work gets docs/<topic>/PLAN.md and DEVLOG.md, both required; no repo-wide devlog.
 - [Test behavior, not implementation](guidelines/test-behavior-not-implementation.md) — test through the public API; a refactor that changes no behavior must not break a test.
 
 ## Decisions
