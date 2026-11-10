@@ -23,5 +23,7 @@ Read this first. One line per file: what it is, so you know whether to open it.
 - [Example app](projects/example-app.md) — what it is, where it runs, its status.
 
 ## Notes
+- [Conventional Branch](notes/conventional-branch.md) — the `<type>/<description>` branch naming spec, with agent prefixes like `claude/`; candidate for a branch-naming rule.
+- [Conventional Commits](notes/conventional-commits.md) — the `type(scope): description` commit message spec and how it maps to SemVer; candidate for a commit rule.
 - [Global agent working rules](notes/global-agent-working-rules.md) — where the six agent working-rule guidelines came from, and the change to the branch rule.
 - [Why mocks hide database bugs](notes/why-mocks-hide-database-bugs.md) — the failure modes a mocked database misses, with the source.
