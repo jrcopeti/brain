@@ -21,6 +21,7 @@ Read this first. One line per file: what it is, so you know whether to open it.
 
 ## Projects
 - [Example app](projects/example-app.md) — what it is, where it runs, its status.
+- [Trip AI](projects/trip-ai.md) — AI travel planner on Vercel (jrcopeti/trip-ai); read its AGENTS.md first, `.env` is production.
 
 ## Notes
 - [Conventional Branch](notes/conventional-branch.md) — the `<type>/<description>` branch naming spec, with agent prefixes like `claude/`; candidate for a branch-naming rule.
