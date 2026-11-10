@@ -40,3 +40,4 @@ Triage does the thinking capture skipped. Read `AGENTS.md` and `taste.md` first.
 - Never edit a file in `sources/`. Notes point to it; it must stay the original.
 - A project-specific rule (how one repo is built) does not belong here. Tell the user it goes into that project's AGENTS.md, and offer to add the line there if that project is open in this session. Keep no copy in the brain: move the original to `sources/` as a "none" item.
 - One item can mention three topics. Still one home: file it where it compounds most, and link from the others only if the link is real.
+- An item that mixes rules for every project with rules for one project: stop and ask the user before filing it (keep only the general part, skip it, or something else). Don't decide alone. Whatever is kept never names that project.
