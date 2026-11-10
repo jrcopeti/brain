@@ -7,6 +7,7 @@ Read this first. One line per file: what it is, so you know whether to open it.
 
 ## Guidelines
 - [Integration tests use a real database](guidelines/integration-tests-real-database.md) — never mock the database in integration tests; start a real one in a container.
+- [pnpm for new projects](guidelines/pnpm-for-new-projects.md) — new projects use pnpm, never npm; existing projects may keep either.
 - [Test behavior, not implementation](guidelines/test-behavior-not-implementation.md) — test through the public API; a refactor that changes no behavior must not break a test.
 
 ## Decisions
